@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Kaladhar 👋
 
-<!--
-**Kaladhars-Hub/Kaladhars-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Electrical & Electronics Engineering | Passionate about Cloud & DevOps  
+📍 Hyderabad, India  
+🚀 Currently learning: AWS | Shell Scripting | Ansible 
+🎯 Seeking: Cloud/DevOps opportunities where I can learn, contribute, and grow
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+| Category | Tools |
+|---|---|
+| Scripting | Bash / Shell |
+| Automation | Ansible |
+| Cloud | AWS (Console, EC2, S3 basics) |
+| Version Control | Git & GitHub |
+| OS | Linux (Ubuntu) |
+
+---
+
+## 📁 Featured Projects
+
+### 🔧 [Roboshop – Shell Automation](https://github.com/Kaladhars-Hub/Shell-Roboshop)
+Automated the deployment of a multi-service e-commerce application (Roboshop) using Shell scripts. Each microservice (MongoDB, Redis, MySQL, NodeJS, etc.) is set up via individual scripts with error handling and logging.
+
+
+### 📚 [Shell Practice](https://github.com/Kaladhars-Hub/Shell-Practice)
+A collection of Shell scripting exercises covering variables, loops, functions, conditionals, and real-world automation use cases.
+
+---
+
+## 🌱 Currently Learning
+
+- ☁️ AWS core services (EC2, IAM, S3, VPC)
+- 🔁 Ansible
+- 🐳 Docker basics
+
+---
+
+## 📊 GitHub Stats
+
+![Kaladhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaladhars-Hub&show_icons=true&theme=default&hide_border=true)
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://www.linkedin.com/in/kaladharknights/)  
+📧 kaladharcareers@gmail.com
+
+> *"Consistency and curiosity are the two best tools in any engineer's kit."*
