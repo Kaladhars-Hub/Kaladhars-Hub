@@ -3,7 +3,7 @@
 🎓 B.Tech in Electrical & Electronics Engineering — switched into DevOps intentionally  
 📍 Hyderabad, India  
 🚀 Currently learning: Kubernetes (EKS on AWS)  
-🎯 Seeking: Junior DevOps / DevOps Trainee / Cloud Support roles
+🎯 Seeking: Junior DevOps / DevOps Trainee / Infrastructure Engineer roles / Associate DevOps Engineer / Junior Cloud Engineer
 
 ---
 
