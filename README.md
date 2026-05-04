@@ -1,21 +1,20 @@
-# Hi, I'm Kaladhar 👋
+# Hi, I'm Kaladhar 👋 I'm an Aspiring Software Engineer.
 
-🎓 B.Tech in Electrical & Electronics Engineering — switched into DevOps intentionally  
-📍 Hyderabad, India  
-🚀 Currently learning: Kubernetes (EKS on AWS)  
-🎯 Seeking: Junior DevOps / DevOps Trainee / Infrastructure Engineer roles / Associate DevOps Engineer / Junior Cloud Engineer
+I am currently focused on building strong programming fundamentals with Java while also gaining hands-on experience in Cloud and DevOps technologies.
+
+I enjoy learning by building real-world systems and understanding how applications are developed, deployed, and run in production environments.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🚀 Tech Stack
 
-| Category | Tools |
-|---|---|
-| Containers | Docker (Dockerfile, Compose, Networking, Volumes, Multi-stage builds) |
-| Scripting | Bash / Shell |
-| Cloud | AWS EC2 |
-| Version Control | Git & GitHub |
-| OS | Linux (RHEL, Ubuntu) |
+- ☕ Java (Primary focus - problem solving & fundamentals)
+- 🐧 Linux (RHEL, Ubuntu)
+- ☁️ AWS (EC2, S3, IAM)
+- 🐳 Docker (Compose, Networking, Volumes, Multi-stage builds)
+- 🔧 Bash / Shell Scripting
+- 📦 Git & GitHub
+- 🔄 Kubernetes (Currently learning)
 
 ---
 
@@ -40,11 +39,17 @@ Shell scripting exercises covering variables, loops, functions, conditionals, an
 ## 📈 What I'm learning right now
 
 ```
+-   Java         — Primary focus (problem solving & OOP fundamentals)
 ✅  Docker       — completed (Dockerfile, Compose, Networking, Volumes, Best Practices)
 🔄  Kubernetes   — EKS on AWS, starting this week
 ⏳  Ansible      — introduction done, going deeper soon
 ⏳  Terraform    — coming after Kubernetes
 ```
+---
+
+## 📌 Goal
+
+To become a Software Engineer with strong programming fundamentals and working knowledge of cloud and deployment systems.
 
 ---
 
