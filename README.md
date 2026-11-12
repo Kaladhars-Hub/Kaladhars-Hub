@@ -2,7 +2,7 @@
 
 ### Aspiring Java Backend Developer | Java | SQL | JDBC | MySQL
 
-Electrical & Electronics Engineering graduate with 1.8 years of professional experience at Wipro in Trust & Safety operations.
+Electrical & Electronics Engineering graduate with 1.2 years of professional experience at Wipro in Trust & Safety operations.
 
 Currently transitioning into software development, focusing on Java backend development and building practical projects to strengthen my programming and database skills.
 
